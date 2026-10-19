@@ -7,7 +7,7 @@ Uma plataforma de blog desenvolvida com React e Firebase, onde usuários podem c
 ## 📸 Preview
 
 
-![Página inicial do MiniBlog](../MiniBlog/src/assets/Screenshots/Home.png)
+![Página inicial do MiniBlog](./src/assets/Screenshots/Home.png)
 
 *Página inicial com publicações e pesquisa por tags.*
 
@@ -23,31 +23,31 @@ Uma plataforma de blog desenvolvida com React e Firebase, onde usuários podem c
 
 ### Página inicial
 
-![Home do MiniBlog](../MiniBlog/src/assets/Screenshots/Home.png)
+![Home do MiniBlog](./src/assets/Screenshots/Home.png)
 
 Visualização das publicações disponíveis e pesquisa por tags.
 
 ### Detalhes da publicação
 
-![Detalhes de um post](../MiniBlog/src/assets/Screenshots/Visualizar.png)
+![Detalhes de um post](./src/assets/Screenshots/Visualizar.png)
 
 Leitura do conteúdo completo de uma publicação.
 
 ### Criação de posts
 
-![Formulário de criação de post](../MiniBlog/src/assets/Screenshots/CriarPost.png)
+![Formulário de criação de post](./src/assets/Screenshots/CiararPost.png)
 
 Formulário para adicionar título, imagem, conteúdo e tags.
 
 ### Dashboard
 
-![Dashboard do MiniBlog](../MiniBlog/src/assets/Screenshots/Dashboard.png)
+![Dashboard do MiniBlog](./src/assets/Screenshots/Dashboard.png)
 
 Área dedicada ao gerenciamento das publicações do usuário, com opções para editar e excluir posts.
 
 ### Login
 
-![Dashboard do MiniBlog](../MiniBlog/src/assets/Screenshots/Login.png)
+![Dashboard do MiniBlog](./src/assets/Screenshots/Login.png)
 Área de Login para usuários já cadastrados.
 
 
