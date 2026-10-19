@@ -35,7 +35,7 @@ Leitura do conteúdo completo de uma publicação.
 
 ### Criação de posts
 
-![Formulário de criação de post](./src/assets/Screenshots/CiararPost.png)
+![Formulário de criação de post](./src/assets/Screenshots/CriarPost.png)
 
 Formulário para adicionar título, imagem, conteúdo e tags.
 
