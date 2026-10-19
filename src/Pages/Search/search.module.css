@@ -1,0 +1,21 @@
+.search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.search h2{
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.search p{
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.nopost{
+    text-align: center;
+}
